@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Math-O-Mat_Make_v1
+*Date=18:54:08
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;2.2µF;100 mil [THT, electrolytic];28.9576;-19.7416;90;Bottom;C1
+2;2.2k;THT;23.9576;-14.0916;-90;Bottom;R1
+3;15.4;;9.76758;-5.01156;90;Bottom;17HS8401
+4;;THT;40.5806;-6.51956;-90;Bottom;Vin
+5;;THT;82.9576;-34.2816;180;Bottom;flash_jumper
+6;;;12.4089;-20.321;90;Bottom;Stepper Driver
+7;;THT;27.3346;-5.50356;90;Bottom;SW_LED_Term
+8;;THT;47.9576;-6.28156;180;Bottom;spare1
+9;;THT;47.9576;-13.2816;180;Bottom;spare2
+10;2.2µF;100 mil [THT, electrolytic];46.6876;-21.0116;180;Bottom;C2
+11;3.3V;TO220 [THT];38.4176;-16.5356;0;Bottom;LF33ABV
+12;;DIP (Dual Inline) [THT];72.0076;-16.5816;-90;Bottom;LOLIN D32
